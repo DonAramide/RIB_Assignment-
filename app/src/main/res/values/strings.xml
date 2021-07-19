@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aramyde Android Test</string>
+    <string name="start">Start</string>
+    <string name="Stop">Stop</string>
+</resources>
